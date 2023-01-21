@@ -7,6 +7,7 @@
   - React Typescript Weather app | Live preview: https://react-weather-typescript.onrender.com/
   - React Kanban Board
   - React Cryptocurrency app
+  - React grade calculator
 - <ins>Full-stack projects</ins>
   - Employee Management System in Spring Boot and React
   - PERN-stack blogging app
