@@ -11,6 +11,7 @@
 - <ins>Full-stack projects</ins>
   - Employee Management System in Spring Boot and React
   - PERN-stack blogging app
+  - Minecraft server status checker application in React.js and Express.js
 - <ins>School related projects</ins>
   - PHP basic blog system
   - Healthcare management system in Java and Swing
