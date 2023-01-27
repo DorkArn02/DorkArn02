@@ -3,19 +3,19 @@
 <h2>✨Projects: </h2>
 
 - <ins>Frontend projects</ins>
-  - React Typescript ToDo app | Live preview: https://react-todo-typescript.onrender.com/
-  - React Typescript Weather app | Live preview: https://react-weather-typescript.onrender.com/
-  - React Kanban Board
-  - React Cryptocurrency app
-  - React grade calculator
+  - <a href='https://github.com/DorkArn02/react-todo-typescript'>React Typescript ToDo app</a> | Live preview: https://react-todo-typescript.onrender.com/
+  - <a href='https://github.com/DorkArn02/react-weather-typescript'>React Typescript Weather app</a> | Live preview: https://react-weather-typescript.onrender.com/
+  - <a href='https://github.com/DorkArn02/react-kanban-board'>React Kanban Board</a>
+  - <a href='https://github.com/DorkArn02/react-crypto-typescript'>React/Redux Typescript Cryptocurrency app</a>
+  - <a href='https://github.com/DorkArn02/react-grade-calculator'>React grade calculator</a>
 - <ins>Full-stack projects</ins>
-  - Employee Management System in Spring Boot and React
-  - PERN-stack blogging app
-  - Minecraft server status checker application in React.js and Express.js
+  - <a href='https://github.com/DorkArn02/employee-management-system'>Employee Management System in Spring Boot and React</a>
+  - <a href='https://github.com/DorkArn02/pern-blog'>PERN-stack blogging app</a>
+  - <a href='https://github.com/DorkArn02/minecraft-server-status'>Minecraft server status checker application in React.js and Express.js</a>
 - <ins>School related projects</ins>
-  - PHP basic blog system
-  - Healthcare management system in Java and Swing
-  - Inventory Management System in Spring Boot and React
+  - <a href='https://github.com/DorkArn02/blog_system_php'>PHP basic blog system</a>
+  - <a href='https://github.com/DorkArn02/PMI_C2_beadando'>Healthcare management system in Java and Swing</a>
+  - <a href='https://github.com/DorkArn02/Inventory_management_system'> Inventory Management System in Spring Boot and React</a>
 
 <h2>✨Languages and tools: </h2>
 
