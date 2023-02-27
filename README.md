@@ -7,7 +7,7 @@
   - <a href='https://github.com/DorkArn02/react-weather-typescript'>React Typescript Weather app</a> | Live preview: https://react-weather-typescript.onrender.com/
   - <a href='https://github.com/DorkArn02/react-kanban-board'>React Kanban Board</a>
   - <a href='https://github.com/DorkArn02/react-crypto-typescript'>React/Redux Typescript Cryptocurrency app</a> | Live preview: https://react-crypto-typescript.onrender.com/
-  - <a href='https://github.com/DorkArn02/react-grade-calculator'>React grade calculator</a>
+  - <a href='https://github.com/DorkArn02/react-grade-calculator'>React grade calculator</a> | Live preview: https://react-grade-calculator.onrender.com/
 - <ins>Full-stack projects</ins>
   - <a href='https://github.com/DorkArn02/employee-management-system'>Employee Management System in Spring Boot and React</a>
   - <a href='https://github.com/DorkArn02/pern-blog'>PERN-stack blogging app</a>
