@@ -1,5 +1,15 @@
-👏 I'm a passionate Computer Science student from Hungary. I’m currently learning full-stack development.
+👏 I'm a passionate Computer Science student from Hungary.
 
+<h2>👌University courses: </h2>
+<ul>
+  <li>
+    <ins>2023/2024/1 semester: </ins>
+    <ul>
+      <li><a href='https://github.com/DorkArn02/C2-Forditoprogramok-assemblerek'>Fordítóprogramok és assemblerek</a></li>
+      <li><a href='https://github.com/DorkArn02/C1-Numerical-Methods-II'>Numerikus módszerek II.</a></li>
+    </ul>
+  </li>
+</ul>
 <h2>✨Projects: </h2>
 
 - <ins>Frontend projects</ins>
