@@ -1,4 +1,9 @@
-👏 I'm a passionate Computer Science student from Hungary.
+I'm Software Developer from Hungary.
+
+<h2> Other projects </h2>
+<ul>
+  <li><a href='https://github.com/DorkArn02/bank_statement_pdf_to_csv_mbh'>Bank statement pdf to csv converter</a></li>
+</ul>
 
 <h2>👌University courses: </h2>
 <ul>
@@ -10,7 +15,7 @@
     </ul>
   </li>
 </ul>
-<h2>✨Projects: </h2>
+<h2>✨University projects: </h2>
 
 - <ins>Frontend projects</ins>
   - <a href='https://github.com/DorkArn02/react-todo-typescript'>React Typescript ToDo app</a> | Live preview: https://react-todo-typescript.onrender.com/
